@@ -1,0 +1,164 @@
+2016-10-27 11:32:42,052 - Logging starts
+2016-10-27 11:32:45,627 - The SQL query executed is:
+2016-10-27 11:32:45,627 - SELECT textdata, filename, decision_fk FROM plaintext WHERE fulltextdarts.plaintext.language='de' LIMIT 4000;
+2016-10-27 11:32:45,627 - Training the Quality Detection algorithm
+2016-10-27 11:32:45,711 - Training completed
+2016-10-27 11:32:45,711 - Connecting to the SQL Server
+2016-10-27 11:32:45,826 - Loading Latin Russian Dictionary
+2016-10-27 11:33:01,539 - Executing SQL Query
+2016-10-27 11:33:13,266 - Extracting features from the test files
+2016-10-27 11:33:42,924 - Successfully extracted features from the test file
+2016-10-27 11:33:42,924 - Predicting the quality of the test files
+2016-10-27 11:33:42,938 - Successfully predicted the quality of the test files
+2016-10-27 11:33:42,960 - Deleting previous files in download prior and non-prior paths
+2016-10-27 11:33:42,960 - Moving files based on priority
+2016-10-27 11:34:00,010 - Finished Quality Assessment and moved files to the prior and non-prior download path
+2016-10-27 11:34:00,394 - Logging starts for Command line Access 1 files
+2016-10-27 11:34:00,411 - Deleteing all the file in the priority Image layer only PDFs path
+2016-10-27 11:34:00,411 - Deleteing all the file in the generic OCRed PDFs path
+2016-10-27 11:45:05,483 - The GS for 1132 files ended in 11.084283332minutes
+2016-10-27 11:45:05,497 - Abbyy generic OCRing darts-000-081-D-de.pdf
+2016-10-27 11:45:57,720 - Abbyy generic OCRing darts-000-859-C-de.pdf
+2016-10-27 11:47:04,302 - Abbyy generic OCRing darts-002-356-D-de.pdf
+2016-10-27 11:47:36,190 - Abbyy generic OCRing darts-004-854-D-de.pdf
+2016-10-27 11:48:48,365 - Abbyy generic OCRing darts-005-754-D-de.pdf
+2016-10-27 11:49:29,526 - Abbyy generic OCRing darts-007-056-D-de.pdf
+2016-10-27 11:50:54,865 - Abbyy generic OCRing darts-007-455-D-de.pdf
+2016-10-27 11:52:02,334 - Abbyy generic OCRing darts-007-456-D-de.pdf
+2016-10-27 11:52:25,510 - Abbyy generic OCRing darts-008-377-A-de.pdf
+2016-10-27 11:52:30,329 - Abbyy generic OCRing darts-010-456-D-de.pdf
+2016-10-27 11:53:29,384 - Abbyy generic OCRing darts-013-061-D-de.pdf
+2016-10-27 11:54:15,762 - Abbyy generic OCRing darts-015-356-D-de.pdf
+2016-10-27 11:55:14,108 - Abbyy generic OCRing darts-018-971-C-de.pdf
+2016-10-27 11:55:40,936 - Abbyy generic OCRing darts-019-072-C-de.pdf
+2016-10-27 11:56:54,750 - Abbyy generic OCRing darts-034-092-C-de.pdf
+2016-10-27 11:57:28,510 - Abbyy generic OCRing darts-044-021-A-de.pdf
+2016-10-27 11:57:36,451 - Abbyy generic OCRing darts-044-119-A-de.pdf
+2016-10-27 11:58:00,549 - Abbyy generic OCRing darts-044-179-A-de.pdf
+2016-10-27 11:58:30,529 - Abbyy generic OCRing darts-044-303-A-de.pdf
+2016-10-27 11:58:43,075 - Abbyy generic OCRing darts-066-874-A-de.pdf
+2016-10-27 11:59:16,305 - Abbyy generic OCRing darts-067-973-A-de.pdf
+2016-10-27 12:02:36,332 - Killing tasks
+2016-10-27 12:02:37,549 - Abbyy generic OCRing darts-067-974-A-de.pdf
+2016-10-27 12:02:58,344 - Abbyy generic OCRing darts-069-368-A-de.pdf
+2016-10-27 12:03:12,255 - Abbyy generic OCRing darts-070-063-A-de.pdf
+2016-10-27 12:04:38,341 - Abbyy generic OCRing darts-071-207-C-de.pdf
+2016-10-27 12:05:09,400 - Abbyy generic OCRing darts-078-248-A-de.pdf
+2016-10-27 12:05:21,677 - Abbyy generic OCRing darts-080-821-A-de.pdf
+2016-10-27 12:05:32,825 - Abbyy generic OCRing darts-081-013-C-de.pdf
+2016-10-27 12:06:02,049 - Abbyy generic OCRing darts-081-113-C-de.pdf
+2016-10-27 12:06:19,278 - Abbyy generic OCRing darts-081-114-C-de.pdf
+2016-10-27 12:06:36,908 - Abbyy generic OCRing darts-083-876-B-de.pdf
+2016-10-27 12:06:44,592 - Abbyy generic OCRing darts-088-228-A-de.pdf
+2016-10-27 12:06:51,516 - Abbyy generic OCRing darts-090-020-A-de.pdf
+2016-10-27 12:07:06,433 - Abbyy generic OCRing darts-090-119-A-de.pdf
+2016-10-27 12:07:37,588 - Abbyy generic OCRing darts-106-039-C-de.pdf
+2016-10-27 12:07:45,220 - Abbyy generic OCRing darts-106-440-C-de.pdf
+2016-10-27 12:07:53,009 - Abbyy generic OCRing darts-106-442-C-de.pdf
+2016-10-27 12:08:00,858 - Abbyy generic OCRing darts-106-447-C-de.pdf
+2016-10-27 12:08:08,240 - Abbyy generic OCRing darts-106-547-C-de.pdf
+2016-10-27 12:08:15,654 - Abbyy generic OCRing darts-106-739-C-de.pdf
+2016-10-27 12:08:23,188 - Abbyy generic OCRing darts-106-842-C-de.pdf
+2016-10-27 12:08:32,266 - Abbyy generic OCRing darts-106-940-C-de.pdf
+2016-10-27 12:08:39,654 - Abbyy generic OCRing darts-108-517-A-de.pdf
+2016-10-27 12:09:49,905 - Abbyy generic OCRing darts-108-523-A-de.pdf
+2016-10-27 12:12:04,769 - Abbyy generic OCRing darts-111-352-C-de.pdf
+2016-10-27 12:13:03,359 - Abbyy generic OCRing darts-111-553-C-de.pdf
+2016-10-27 12:13:10,803 - Abbyy generic OCRing darts-111-653-C-de.pdf
+2016-10-27 12:16:30,809 - Killing tasks
+2016-10-27 12:16:32,112 - Abbyy generic OCRing darts-111-760-C-de.pdf
+2016-10-27 12:16:40,795 - Abbyy generic OCRing darts-111-852-C-de.pdf
+2016-10-27 12:16:49,178 - Abbyy generic OCRing darts-111-854-C-de.pdf
+2016-10-27 12:16:57,367 - Abbyy generic OCRing darts-111-953-C-de.pdf
+2016-10-27 12:17:05,134 - Abbyy generic OCRing darts-112-054-C-de.pdf
+2016-10-27 12:17:13,115 - Abbyy generic OCRing darts-112-055-C-de.pdf
+2016-10-27 12:17:21,374 - Abbyy generic OCRing darts-114-736-A-de.pdf
+2016-10-27 12:17:32,144 - Abbyy generic OCRing darts-115-937-A-de.pdf
+2016-10-27 12:17:40,444 - Abbyy generic OCRing darts-116-826-A-de.pdf
+2016-10-27 12:17:51,572 - Abbyy generic OCRing darts-118-409-A-de.pdf
+2016-10-27 12:17:57,496 - Abbyy generic OCRing darts-119-090-A-de.pdf
+2016-10-27 12:18:05,180 - Abbyy generic OCRing darts-120-057-C-de.pdf
+2016-10-27 12:18:26,260 - Abbyy generic OCRing darts-120-064-C-de.pdf
+2016-10-27 12:18:51,657 - Abbyy generic OCRing darts-120-956-C-de.pdf
+2016-10-27 12:19:49,033 - Abbyy generic OCRing darts-121-269-A-de.pdf
+2016-10-27 12:19:56,713 - Abbyy generic OCRing darts-121-358-C-de.pdf
+2016-10-27 12:21:19,292 - Abbyy generic OCRing darts-121-359-C-de.pdf
+2016-10-27 12:22:02,017 - Abbyy generic OCRing darts-121-370-A-de.pdf
+2016-10-27 12:22:09,456 - Abbyy generic OCRing darts-121-570-A-de.pdf
+2016-10-27 12:25:29,489 - Killing tasks
+2016-10-27 12:25:30,720 - Abbyy generic OCRing darts-121-571-A-de.pdf
+2016-10-27 12:25:41,638 - Abbyy generic OCRing darts-121-577-A-de.pdf
+2016-10-27 12:25:52,181 - Abbyy generic OCRing darts-121-771-A-de.pdf
+2016-10-27 12:26:04,884 - Abbyy generic OCRing darts-122-471-A-de.pdf
+2016-10-27 12:26:12,516 - Abbyy generic OCRing darts-122-965-A-de.pdf
+2016-10-27 12:27:24,451 - Abbyy generic OCRing darts-123-508-A-de.pdf
+2016-10-27 12:27:57,187 - Abbyy generic OCRing darts-125-978-A-de.pdf
+2016-10-27 12:28:24,088 - Abbyy generic OCRing darts-128-377-C-de.pdf
+2016-10-27 12:28:33,345 - Abbyy generic OCRing darts-128-378-C-de.pdf
+2016-10-27 12:28:40,816 - Abbyy generic OCRing darts-128-579-C-de.pdf
+2016-10-27 12:28:48,301 - Abbyy generic OCRing darts-130-366-A-de.pdf
+2016-10-27 12:28:55,700 - Abbyy generic OCRing darts-131-818-A-de.pdf
+2016-10-27 12:29:03,894 - Abbyy generic OCRing darts-132-195-C-de.pdf
+2016-10-27 12:29:37,454 - Abbyy generic OCRing darts-132-790-C-de.pdf
+2016-10-27 12:30:39,946 - Abbyy generic OCRing darts-133-110-A-de.pdf
+2016-10-27 12:30:47,743 - Abbyy generic OCRing darts-133-394-A-de.pdf
+2016-10-27 12:30:55,407 - Abbyy generic OCRing darts-134-589-C-de.pdf
+2016-10-27 12:31:04,746 - Abbyy generic OCRing darts-134-596-C-de.pdf
+2016-10-27 12:31:12,197 - Abbyy generic OCRing darts-134-990-C-de.pdf
+2016-10-27 12:31:19,520 - Abbyy generic OCRing darts-135-008-A-de.pdf
+2016-10-27 12:31:27,709 - Abbyy generic OCRing darts-135-291-C-de.pdf
+2016-10-27 12:31:35,282 - Abbyy generic OCRing darts-135-298-A-de.pdf
+2016-10-27 12:31:43,598 - Abbyy generic OCRing darts-135-392-C-de.pdf
+2016-10-27 12:31:51,072 - Abbyy generic OCRing darts-135-393-C-de.pdf
+2016-10-27 12:31:59,197 - Abbyy generic OCRing darts-135-498-C-de.pdf
+2016-10-27 12:32:06,579 - Abbyy generic OCRing darts-135-592-C-de.pdf
+2016-10-27 12:32:13,913 - Abbyy generic OCRing darts-135-693-C-de.pdf
+2016-10-27 12:32:21,391 - Abbyy generic OCRing darts-135-698-C-de.pdf
+2016-10-27 12:32:28,798 - Abbyy generic OCRing darts-136-808-C-de.pdf
+2016-10-27 12:32:36,180 - Abbyy generic OCRing darts-136-900-C-de.pdf
+2016-10-27 12:32:43,658 - Abbyy generic OCRing darts-137-005-C-de.pdf
+2016-10-27 12:32:51,779 - Abbyy generic OCRing darts-138-189-A-de.pdf
+2016-10-27 12:32:58,895 - Abbyy generic OCRing darts-139-168-A-de.pdf
+2016-10-27 12:33:08,517 - Abbyy generic OCRing darts-139-190-C-de.pdf
+2016-10-27 12:33:20,937 - Abbyy generic OCRing darts-139-290-C-de.pdf
+2016-10-27 12:33:29,118 - Abbyy generic OCRing darts-139-388-C-de.pdf
+2016-10-27 12:33:37,535 - Abbyy generic OCRing darts-139-589-C-de.pdf
+2016-10-27 12:33:45,336 - Abbyy generic OCRing darts-139-591-C-de.pdf
+2016-10-27 12:33:53,000 - Abbyy generic OCRing darts-139-692-C-de.pdf
+2016-10-27 12:34:01,104 - Abbyy generic OCRing darts-139-890-C-de.pdf
+2016-10-27 12:34:08,980 - Abbyy generic OCRing darts-139-992-C-de.pdf
+2016-10-27 12:34:16,627 - Abbyy generic OCRing darts-140-091-C-de.pdf
+2016-10-27 12:37:36,648 - Killing tasks
+2016-10-27 12:37:37,878 - Abbyy generic OCRing darts-140-933-A-de.pdf
+2016-10-27 12:37:44,799 - Abbyy generic OCRing darts-141-132-A-de.pdf
+2016-10-27 12:37:52,517 - Abbyy generic OCRing darts-141-133-A-de.pdf
+2016-10-27 12:37:58,750 - Abbyy generic OCRing darts-141-237-A-de.pdf
+2016-10-27 12:38:07,009 - Abbyy generic OCRing darts-141-328-A-de.pdf
+2016-10-27 12:38:14,747 - Abbyy generic OCRing darts-141-691-C-de.pdf
+2016-10-27 12:39:24,654 - Abbyy generic OCRing darts-141-891-C-de.pdf
+2016-10-27 12:39:47,217 - Abbyy generic OCRing darts-141-993-C-de.pdf
+2016-10-27 12:40:31,977 - Abbyy generic OCRing darts-142-513-A-de.pdf
+2016-10-27 12:40:40,691 - Abbyy generic OCRing darts-143-897-C-de.pdf
+2016-10-27 12:40:51,045 - Abbyy generic OCRing darts-144-005-C-de.pdf
+2016-10-27 12:40:58,507 - Abbyy generic OCRing darts-144-200-C-de.pdf
+2016-10-27 12:41:05,950 - Abbyy generic OCRing darts-144-799-A-de.pdf
+2016-10-27 12:41:12,411 - Abbyy generic OCRing darts-145-197-A-de.pdf
+2016-10-27 12:41:22,028 - Abbyy generic OCRing darts-145-198-A-de.pdf
+2016-10-27 12:41:29,648 - Abbyy generic OCRing darts-146-597-C-de.pdf
+2016-10-27 12:42:48,750 - Abbyy generic OCRing darts-146-686-A-de.pdf
+2016-10-27 12:42:54,322 - Abbyy generic OCRing darts-146-786-A-de.pdf
+2016-10-27 12:46:14,335 - Killing tasks
+2016-10-27 12:46:15,568 - Abbyy generic OCRing darts-146-887-A-de.pdf
+2016-10-27 12:46:29,921 - Abbyy generic OCRing darts-146-986-A-de.pdf
+2016-10-27 12:46:39,306 - Abbyy generic OCRing darts-148-973-A-de.pdf
+2016-10-27 12:46:44,930 - Abbyy generic OCRing darts-149-271-A-de.pdf
+2016-10-27 12:46:54,121 - Abbyy generic OCRing darts-149-479-A-de.pdf
+2016-10-27 12:47:02,765 - Abbyy generic OCRing darts-149-571-A-de.pdf
+2016-10-27 12:47:09,697 - Abbyy generic OCRing darts-149-579-A-de.pdf
+2016-10-27 12:47:17,414 - Abbyy generic OCRing darts-149-971-A-de.pdf
+2016-10-27 12:47:24,338 - Abbyy generic OCRing darts-151-729-A-de.pdf
+2016-10-27 12:47:29,796 - Abbyy generic OCRing darts-151-816-A-de.pdf
+2016-10-27 12:47:40,176 - Abbyy generic OCRing darts-154-606-C-de.pdf
+2016-10-27 12:48:54,091 - Abbyy generic OCRing darts-155-213-C-de.pdf
+2016-10-27 12:49:49,750 - Abbyy generic OCRing darts-156-617-C-de.pdf
+2016-10-27 12:50:00,980 - Abbyy generic OCRing darts-156-812-C-de.pdf
